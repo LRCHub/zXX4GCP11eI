@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "右ポケット",
+  "base_artist": "9Lana",
+  "createdAt": "2026-02-26T09:50:48.083634Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "右ポケット",
+      "artist": "9Lana",
+      "has_synced": false,
+      "path": "select/01_右ポケット_9Lana.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "右ポケット",
+      "artist": "9Lana",
+      "has_synced": true,
+      "path": "select/02_右ポケット_9Lana.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "右ポケット",
+      "artist": "9Lana",
+      "has_synced": false,
+      "path": "select/pl_01_右ポケット_9Lana.txt"
+    }
+  ]
+}
